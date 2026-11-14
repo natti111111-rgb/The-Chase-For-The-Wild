@@ -1,2 +1,411 @@
-# The-Chase-For-The-Wild
-Welcome to my Ebook!!!
+<html><head></head><body style="margin: 0;">
+
+
+
+<div style="
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('https://dzkl30dwvbik9zyk.public.blob.vercel-storage.com/i/XIP0eRZ83d-28Y2pG06HhUF5qI6TSCn1oMqiHW9G7.png');
+  background-size: cover;
+  background-position: center;
+  filter: blur(8px);
+  z-index: 0;
+  pointer-events: none;
+"></div>
+
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
+
+<style>
+* {
+  font-family: "Palatino Linotype", serif;
+}
+</style>
+
+<div style="position: relative; z-index: 1;">
+
+
+<h1>The Chase For The Wild</h1>
+
+<p>Natalia S</p>
+
+<a href="https://imgdrop.dev/i/9NzSn6Jj1m"><img src="https://dzkl30dwvbik9zyk.public.blob.vercel-storage.com/i/9NzSn6Jj1m-rDFd7PaOqueBSrepBkvJVEwpkecVZb.jpg" alt="the chase for the wild cover"></a>
+
+<h1 style="background-color:#976D36; color:#1B100C ">About other:</h1>
+
+<p style="color: white">Hello, my name is Natalia S. I am a 15-year-old author of the book The Chase for the Wild. My inspiration for writing this story came from listening to the audiobook Black Beauty — Anna Sewell. The title name came from inspiration I got from The Call of the Wild — Jack London. This Book has 11 Chapters and is taking me 2 years to complete! This is because due to school work and other activites I dont have much time to write. And somtimes when I do I just dont have the motivation. I hope you find my book engaging and enjoyable.</p>
+
+<h1 style="background-color:#956A34; color:#1B100C ">Book description:</h1>
+
+
+<p style="color: white">The Chase for the Wild is the story of a horse named Penny, who was taken away from her mother, Furn, when she was a young foal. Both are wild horses, but Penny has been sold to many masters and riders. Will she ever escape? Will she ever see her mother again?
+The Chase for the Wild is an emotional yet beautiful story. Read on to discover Penny’s journey.</p>
+
+
+<h1 style="background-color:#90602E; color:#1B100C">Chapter 1</h1>
+
+<p style="color: white; font-size: 23px;"><b><i>How It All Started</i></b></p>
+
+<p style="color: white"> My name is Penny, and I lived free in the wild with my dear mother, Furn. I know not what became of my father, for I was but a small foal when he vanished. All I can hope is that he fares well, wherever he may be. He hath been gone since I was born, and now I am grown into a strong yearling, near one year of age. At least, that is what my mother doth call me—her strong and beautiful little yearling.
+
+I never knew my father, and Mother always told me I was too young to understand. Soon, I shall turn two, and my mother hath promised to take me to a field full of flowers. I have yet to see such a thing—a meadow filled entirely with blooms. I can scarce wait for that day.
+
+We lived a quiet and peaceful life—or so it was. Until the day all changed. That day is seared into my memory, for it was most terrible indeed. Though I was too young to fully grasp it, I knew enough to feel fear.
+
+One morning, a man arrived with a cart drawn by a strong chestnut gelding, with a white blaze down his nose and a sturdy build made for long hauls. The cart was large and rattled as it rolled along the ground. Behind it, a wooden carrier was hitched—meant for holding horses, though I did not yet know it.
+
+Mother had long warned me of such men. She would say, “If ever thou seest them, run—run as fast as thy hooves may carry thee.” She knew not why they came, but she knew for certain they brought no kindness. She bade me lie low in the tall grass and hide among the straws, whilst she kept watch behind a tree.
+
+But the men saw us nonetheless. They came straight for us, swift and cruel. My mother cried out, “Run, Penny! Run!” So I ran —ran like never before, my hooves pounding the earth behind hers. But the men were faster still. They threw ropes with hoops at the end, and one caught me around the neck before I could cry out.
+
+Mother did not see—I was too far behind. I tried to follow, but the rope about my neck tightened, choking me till I could go no further. The men dragged me toward their cart. I heard one of them mutter, “Aye, little one, ye’re perfect for sale. Our boss’ll like this—third one today.” Then came a laugh, cruel and careless. To them, we were nothing but stock. No more than beasts to be bought and sold.
+
+The cart stood before me, and the doors to the carrier swung wide. I was shoved inside with barely space to breathe. I was frightened beyond all telling. Inside the cart, a black horse snorted at me. “Captured, eh? Couldn’t run far with those clumsy legs,” he scoffed. “Hopeless little thing, aren’t ye?”
+
+He was a striking black mustang, proud and tall. Beside him stood a grey mare with a dark mane and kind eyes. She turned to him sharply. “Oh, hush, you’ll only make things worse for her. She’s been through enough—can’t you see?”
+
+Her voice was soft but firm. “The poor young filly’s been torn from her mother. I knew her father, once—a fine stallion, with manners and heart. It’s a shame what became of him. Left like an old plaything no longer wanted.”
+
+Her words pierced me. My father… gone. The mustang gave a small grunt. “Enough, May. Ye’ll only make her sadder.” Then he turned to me, ears tilting back. “I apologise, little one. Name’s Jack. And you?”
+
+“Penny,” I whispered.
+
+“Penny?” The grey mare brightened. “A beautiful name! My mother bore the same. I am May, and Jack here is my brother—though we quarrel more than not.”
+
+Jack gave a snort. “She tells every stranger our tale, poor lass doesn’t know better.”
+
+I could not help but feel a sliver of comfort in their voices. At
+
+least I was not alone.
+
+Before long, the cart began to move. I hadn’t even noticed it start. I only knew we were going somewhere, and I feared what lay ahead. The cart rattled and creaked. Time passed, but I know not how much. Then, suddenly, the doors opened wide, and all light flooded in.
+
+And that is where my journey truly began.</p>
+
+
+<h1 style="background-color:#895729; color:#1B100C ">Chapter 2</h1>
+
+<p style="color: white; font-size: 23px;"><b><i>The auction</i></b></p>
+
+<p style="color: white"> I had come to a place I did not know. All I knew was that I was afraid. Yes, very, very afraid.
+
+To my right, I saw a stable filled with wild horses — poor old fellows, taken from their families, just as I had been taken from my mother. To my left stood a crowd of people, chattering and waving strange things they called *money*. Some papers had “50” written on them, others had “100.”
+
+Before me stood the back of a great wooden shed, though it had no front wall. It looked something like a stage, though so worn and crooked I could not tell whether it was ever meant to be one, or simply the broken half of an old shelter. From behind it came loud shouting and the voice of a man speaking so fast one could barely catch a word.
+
+I was led toward the stable, Jack and May at my side. Oh, what a dreadful place it was — for a horse that had known only the soft sounds of nature. The loud noises were a torment to our kind, unaccustomed as we were to such racket.
+
+Inside the stable, I found three other horses. One was a quiet, grey-haired fellow, clearly in his later years. I believe he was a Shire. In the next stall stood a young pony — small and sprightly, perhaps a Shetland, a year older than I.
+
+I was led into the stall across from the old Shire. Beside me stood a mare, the likes of whom I had never seen before.
+
+“Excuse me, miss,” I asked politely, “but what sort of horse are you?”
+
+With her head high, she replied, “Why, I am none other than a *Przewalski’s horse*, the rarest breed there is. But what would you know, little filly? I, too, have been taken from my home, like all the others. I only hope I am sold to a home that treats me like a queen — for I deserve no less. Alas, instead I must sit in this
+
+filthy stall among *common horses*. Still, they say I’m worth a great deal. If I am not sold for at least one thousand pounds, I shall kick, I shall bite, and I shall run away and hide.”
+
+She sounded terribly proud — as though she truly believed she ruled over the rest of us. I could not bear horses like that. No matter our breed, we are all equal.
+
+Jack and May were placed at the far end of the row, out of speaking range. I saw them bickering again, blaming one another for our capture. I chose to ignore them, as did the others.
+
+The old Shire across from me lowered his head kindly. “My apologies for Miss Scaline over there,” he said. “Because she’s rare, she believes she owns the place — but she doesn’t, not one bit. I ought to know. A day spent with her is enough to drive any soul bonkers. Name’s Sam, young lady. And yours?”
+
+“Penny,” I replied softly. “Nice to meet you, Sam.”
+
+Just then, the little Shetland stood up on his hind legs, his front hooves over the stall door. He was bursting with energy.
+
+“Well hullo there, Penny!” he said in a quick and cheerful tone. “Name’s Chase! I chose to get caught, you know.”
+
+“Chose?” I asked, confused.
+
+“Yes, chose!” he chirped. “I wanted an adventure — and now here I am! Isn’t it exciting? The noises! The people! The air! I can’t wait to meet my new master!”
+
+“But aren’t you sad you may never see your mum or dad again?” I asked.
+
+“Oh, I don’t worry about them,” he said with a little shrug. “They’ll be just fine. Besides, they’ve got each other!”
+
+I turned to Sam. “And why were you caught?”
+
+He gave a slow, quiet snort. “Oh, I’m an old horse, Penny. These weak legs of mine don’t run fast anymore. Not much left for me, really. My time may be nearly up, so I reckon I’ll just go along with whatever happens now.”
+
+The stall door creaked open. It was Miss Scaline’s turn. She was led away proudly, head held high.
+
+Sam chuckled to himself. “Heh… just wait. If they try to sell her for less than a thousand, she’ll throw a fit.”
+
+All was quiet after that. I stood in my stall, listening to the auction beyond the wall. Then — chaos. We heard shouts, hooves stamping, and a sharp, angry whinny. Miss Scaline returned, flanked by two men yelling at her.
+
+“What happened?” asked May.
+
+“They tried to sell me for *seven hundred and eighty*,” she huffed. “I wouldn’t allow it. I tried to run. They wouldn’t let me. But at least now they *know*. No less than a thousand, or I’ll misbehave every time.”
+
+Sam muttered to me, giggling, “Told you so. Knew she’d be back in under ten minutes.”
+
+Then it was my turn. I knew, for the men were walking toward me.
+
+As they led me out, I heard May call softly, “Be good for your new master, Penny. Everything will be all right. Good luck on your journey.”
+
+I reared my head to thank her — and then I was gone.
+
+Up on the old wooden stage I stood, frozen, as people shouted from all sides. Beside me stood a man yelling strange numbers into my ear.
+
+Then came the final offer.
+
+A man with cold eyes raised his hand and said, “Five hundred and fifty.”
+
+The auctioneer cried, “Sold!”
+
+I was terrified. The man led me away and gave me a pat — but not a kind one. Rough and careless, like one might treat a sack of
+
+oats. I could already feel that he was not the sort to be gentle with horses.
+
+I was nervous, and afraid.
+
+And before I knew it, I was at the back of his carriage.</p>
+
+<h1 style="background-color:#834E25; color:#1B100C ">Chapter 3</h1>
+
+<p style="color: white; font-size: 23px;"><b><i>First Master</i></b></p>
+
+<p style="color: white"> The drive was silent and dreadful. I worried much for my mother, Furn. What if she felt abandoned, for my hooves could not keep up? Oh, I would not wish upon any horse, especially my mother, such dreadful sorrow.
+
+And now, as I have learned, I shall never meet my father, for he ended up dead. This made me even sadder. Especially after I overheard May whisper to Jack that he got to run free but was too weak and could not find any water. May knew him well, so I think they must have been great friends.
+
+Mother once told me stories of my father’s adventures with his friends, though I never truly knew who they were. Now, thinking on it, it was probably May and Jack. I cannot blame him, for May is such a sweet heart, and Jack is one strong horse. My father was strong, I believe, and most likely brave too.
+
+Sad that it all came to such an awful, brutal end. Now that I have come to think of it, what if I end up like my father? I would not wish that upon myself. This was my mother’s first family. And if that cold-blooded man even dares to end me like my father ended up, I shall kick and I shall bite.
+
+After what felt like an hour, we stopped. The carriage door opened, and it seemed to be night time—somewhere near eight or nine o’clock. The stable was a little shed with two stalls. I was taken to that tiny shed in the big open backyard outside a small house that looked like it would fit but four people at most.
+
+It stood on a hill with nothing but grass and far land surrounding it. The stable was lit by a single bulb that barely worked. The wood was damp, and it smelled awful—like the stalls and stable had never been cleaned before.
+
+I was put into the very first stall. Next to me stood a worn-out horse, with whip marks about his back hooves and thighs. He looked tired, and his mouth seemed sore.
+
+“Hello there,” I said.
+
+“Oh, little filly,” said the horse. “God has not been on your side, has He now?”
+
+I was confused. The horse kept going: “You see, this man is a very, very bad man. He treats us as if we were but trains or carts. We are not animals to him, only machines.”
+
+The horse looked very thin, and it made me worried. “They’ll put me down soon, for I am worn out. They think of me as useless.”
+
+“I’m Marshal, by the way. You’re probably my replacement. The horse you saw on your way here is the master’s friend’s horse. His friend takes better care of horses than our master does. He warns, ‘Don’t wear out your horses,’ but why would our master care? We’re just like trains to him—tools of transport.”
+
+“And if a horse is tired, he gives a slash of the whip and forces you to go faster, even if you can barely move.”
+
+“Let me tell you something. The best you can do is obey and guess what our master Corvin wants. Don’t try to kick or bite, or else he won’t feed you that night. It’s not like he feeds me well anyway, but at least it’s something.”
+
+“I can’t take it anymore. Goodbye, my fellow. Remember the words I’ve said. My time has come.”
+
+Then the poor thing collapsed to the ground and stopped breathing. What a brutal thing to witness.
+
+I had no choice but to feel frightened and utterly fearful of how this man treats his horses. What a cruel, cruel man Corvin is. I already hate him.
+
+The night passed brutally, and in the morning I saw Marshal buried in front of the shed-like stable. Then my master gave me three oats and a tiny bit of bran mash. How is that to give a horse any strength? Absolutely appalling.
+
+He then took me out before I could take a second bite and put a bit and bridle on me. The bit was so sharp I could not bear it. It stung my tongue and the roof of my mouth.
+
+He put on a saddle and jumped on. He yelled aggressively, whipping me to go as fast as I could. Then muttered, “Let’s see what this useless thing can do.”
+
+I had no choice but to run—run as fast as I could. He pulled the bridle so hard my whole neck ached. The pain was sudden and sharp.
+
+I was so surprised I kicked my hooves into the air, knocking him off. I ran to the corner of the fenced field to try and hide away.
+
+“Ah!” he said. “No food for you tonight, hey? And if you dare act like this tomorrow, I’ll plot to sell you—too aggressive and wild.”
+
+I was then put back into my stall. He said that old Marshal lasted a year, and if I couldn’t stand at least a day or two, I should be sold for I was useless. Yes, very useless indeed.
+
+The smell of rotting manure burned my nose, and the intense stench gave me a headache. I lay in my stall in silence.
+
+Useless, I thought to myself. You are the one who is useless. You killed poor Marshal and cause me pain and starvation. The only useless one is you. I absolutely hate men like Corvin. We are not machines but living creatures. How can he expect us to run when he causes us pain and barely feeds us?
+
+I decided not to think and fell asleep. When I did, it was about ten in the morning. I dreamed of my father running with me through fields of flowers my mother promised to take me to.
+
+I imagined my father as a brave, strong mustang who looked just like me but with beautiful gray hair and black spots instead of white. Then I remembered his name—John. Yes, John indeed.
+
+I woke about six in the afternoon. The sleepless night made this nap feel good. My headache was gone,
+
+and my eyes could now focus sharply. I looked and saw there was no dinner—indeed, I had just eaten the hay I slept on.
+
+Nasty, I say, for it was old and I soon felt a strong stomach ache after eating it. Better than nothing, I suppose.
+
+Around nine in the evening, I heard my master walk in and say, “I will name you Sara. And if you don’t behave, I shall sell you.”
+
+At this point, I would rather be sold than stay here.
+
+That gave me an idea. What if tomorrow I were extra bad so I might finally go somewhere better—away from this cruel, cruel man?
+
+The next morning, as soon as he tried to put the bit on me, I bit him hard.
+
+Corvin screamed in pain and said, “You naughty fool of a horse!” Then he slapped me.
+
+“Can’t be bothered with you anymore. I shall sell you tonight,” he said, and went away.
+
+I felt a strange sense of hope and happiness.</p>
+
+<h1 style="background-color:#7C4522; color:#1B100C ">Chapter 4</h1>
+
+<p style="color: white; font-size: 23px;"><b><i>Sold Again</i></b></p>
+
+<p style="color: white">The evening came, and I heard an unfamiliar voice outside my stable. It was gentle and kind, as though the person knew well how to care for a horse. Not like Carvin, who had worked poor Marshal so hard that I had seen him die before my eyes. Poor creature! I suppose he is free of his suffering now, yet the stable still seemed heavy with sorrow, as if his spirit lingered there and could not rest.
+
+I hoped that this stranger was the one who would buy me, or at least someone who would see what went on in Carvin’s barn behind closed doors. I could not bear to wait any longer, being treated as if I were but a machine. I am a living creature, just like any man, and if Carvin cannot understand that, then he should buy a train instead of using a horse as he does. Perhaps he may one day be served as badly as he has treated us, and learn a lesson.
+
+As I stood in my stall, I listened. The voice was soft and kind, yet firm, and each word gave me hope. Horses have sharp hearing, especially young ones. A mouse could not sneak past me, even if I were not looking. I overheard Carvin—whom I no longer called master—speaking with the stranger, not far from my stall that evening.
+
+“Well, sir,” said the stranger, “what price do you ask for the horse?”
+
+“Two thousand shillings for a horse such as this,” replied Carvin.
+
+“Two thousand!” said the voice, a little vexed. “I hardly earn one thousand in a year. I cannot pay that. Can we make the price lower?”
+
+“Very well, if you wish,” said Carvin.
+
+“One hundred it shall be, then,” said the stranger.
+
+“I only want this naughty horse out of my stable,” said Carvin. “She kicks and bites.”
+
+“And I am sure,” said the stranger, “that with a little love, she will be as full of spirit as a horse that runs free.”
+
+So their conversation ended, and the kind man rode away. I saw him only through a small carved window in the stable door, a flash of his black coat. Soon Carvin came in and said, “There is news, Sara. Tomorrow you shall have a new master, Godwin. At last I shall be rid of this troublesome horse from my property.”
+
+He gave me a small portion of barn mash—dry and old, but better than nothing—and went away.
+
+The next morning brought no breakfast, as was usual. I heard Carvin speaking to another man. His voice was loud and harsh, as if he had never known joy. I paid little attention, but I caught the words, “Two hundred shillings, and the horse is yours.”
+
+“Agreed,” said Carvin.
+
+Soon the stable doors opened, and another horse was led in. He looked thin and tired, and was placed in the stall beside mine.
+
+“Good day, fellow,” said he.
+
+“And to you,” said I. “You look very thin.”
+
+“Yes,” he said, “but I have grown used to it. I was born this way. My body has learned to live as an engine. Nine long years I have endured this, and I know no better.”
+
+“My name is Sails,” he said.
+
+“I am Penny,” I said.
+
+I felt sorry for him, for I feared he might never know freedom. Thinking of it made me sad, and I dared not dwell on it too long.
+
+By noon the sun shone high, and I waited for my new master. Between five and six, I heard Godwin calling cheerfully, “Good afternoon, sir!”
+
+“A good afternoon it is,” said Carvin. “Here is the horse.”
+
+They brought me out, and Godwin put a bridle on me, fastening me behind his own horse.
+
+“What a beautiful creature!” he said. “I shall name you Penny, for your coat shines like a bright bronze penny in the sun.”
+
+Before we left, I heard Sails give a little rear, as if to wish me luck.
+
+We rode forth, and I soon learned the ride would take an hour and a half. I minded it not, for my heart was light. Godwin was a small man, near sixty, with little hair upon his head, a long grey beard, and thick brows. He wore a green plaid shirt with a blue pinafore, white trousers, and a sun-hat with a red ribbon.
+
+His horse was deep chocolate-brown, with a black mane and tail, called Reeky. He was quiet and jolly, and told me stories of adventures with Godwin. One I remember well: on a stormy night, they climbed a steep hill to carry a lady to her son in the hospital. Reeky ran as fast as he could, and they arrived just in time. The lady gave them forty shillings, which was much for a day’s work. From then, Reeky was known as a hero in the town, and rightly so was his master.
+
+At last, we arrived at a place I could truly call home.</p>
+
+<h1 style="background-color:#763D20; color:#D2B69A ">Chapter 5</h1>
+
+<p style="color: white; font-size: 23px;"><b><i>The Kind Rider</i></b></p>
+
+<p style="color: white">When we arrived, I heard Godwin speak to me with great kindness and a gentle voice as he undid my harness.
+
+“Here you go, little one,” said he. “Take it easy. He didn’t take the best care of you, did he? Oh, you poor sweet thing. You look so weak and tired. I should think he barely fed you.”
+
+Then he led me to my stall. “There you go, Penny. Here is some barn mash. Eat as much as you desire.”
+
+He brought me a full bucket of the delicious food. I could finally have a proper meal, and it was my favourite too — so easy and smooth on the tongue, and warm as well. This was a place I could truly call home.
+
+Reeky sat next to my stall. “I’ll show you around after you finish eating,” he said, “Godwin told me to, as long as you’re not too tired.”
+
+I loved the idea of exploring my new home. After finishing the mash, leaving just a quarter of the bucket, I was taken out to a wide stretch of farmland. I could finally run freely and enjoy myself. At last, I could be what I was meant to be — a horse, and not a machine.
+
+I raced Reeky and felt so much joy. It reminded me of the days in the wild, running free and chasing after my mother. My heart ached a little, and I found myself wondering, *Where is my mum? Is she safe? I hope she wasn’t captured by cruel people.*
+
+After our run, Reeky showed me around and taught me the routines. “Here, as you may know, we have the stables,” he said, “and behind them, the beautiful woods. I have never been out there before. Godwin is very careful — afraid something might happen, which is understandable, of course. And over there is the farmland, as you can see. Godwin usually brings us out there two
+
+or three times a day. Food is given twice a day, in good portions — much better than what you were fed before. And we get fresh, delicious hay — sweet and wholesome, perfect for a healthy snack — early in the morning, and then every seven hours throughout the day. Here is our small yard around the stables. We can go out there whenever we want.”
+
+Reeky paused for a minute, sensing that something was wrong. Then he asked softly, “Hey, little fellow, are you all right? You seem a bit upset. Is something troubling you?” His voice was full of care.
+
+“Well,” I said, “you know I used to be a wild horse. This forest is part of the one I was taken from, farther to the north. I am worried about my mother. I really wish to see her again.”
+
+I gave a deep sigh and stamped my hoof. I longed to run out there and find her, to see her once more. I missed her terribly. As I stood there, Reeky gently pressed his head against mine, nuzzling me with quiet care.
+
+“It’s okay,” he said softly. “Don’t worry about it. I’m sure you’ll be reunited soon. Especially as we are so close. Your mother will find you.”
+
+The days passed smoothly. Every day followed the same routines. It was fun, and much better than before. I felt freer than I had in a long time. But… I still wished to find my mother.</p>
+
+<h1 style="background-color:#70351E;color:#D2B69A ">Chapter 6</h1>
+
+<p style="color: white; font-size: 23px;"><b><i>Letting Go</i></b></p>
+
+<p style="color: white">It had been a week since I had come to live in my new home. Every day made me feel stronger and helped me heal from my painful past. I finally felt free. Yet… I still felt something missing, as if I weren’t truly free. Of course, I felt at home with Reky and Godwin, but I longed to find my mother.
+
+Every day I would go out and stand by the wooden fence next to my stable, separating me from the northern part of the forest that had once been my home. I would stare into the open, hoping to catch a glimpse of her. It had been three painful years without her… I missed her dearly.
+
+One day, I did as usual and stood gazing into the open. But this time it felt different. I felt comforted.
+
+“What are you looking at, little fella?” Reky asked.
+“Godwin has been worried sick about you,” Reky continued. “He knows something is wrong, but he just can’t quite get the grip of why.”
+
+“I’m sorry to ask a painful question, but… is it your mother you’re longing for?”
+
+“Yes, Reky,” I replied in a very sad ney. “It’s been three years, you know… I just wish I could jump over this fence and run to her. It’s not that I don’t love you both as family—I do—but I need to make sure my mum is okay. Do you think, if I ever had the chance, Godwin would set me free?”
+
+“Well, Penny,” Reky said gently, “I understand this is a hard time for a young fella like yourself. I never met my family when I was a little filly, so I know the feeling of grief and longing to see your parents again. All my life I’ve grown up in this barn. This is home. This is all I’ve known, including the city. But I see why you want to be free.
+
+“The only worry I have, and Godwin would agree, is… what if something happens? What if you get caught again—or worse?”
+
+And with that, the conversation ended. A quiet fell over us for a while, until moments later Godwin called us in for dinner.
+
+That night, I barely touched my barn mash. I lay miserably, weighed down by grief. What if Reky was right, I wondered? Did I still have the courage to venture back into the unknown after so many years in captivity? I had been trapped like a bird in a cage all my life. And although this felt like freedom… I knew it was not true freedom.
+
+What if I tried, and ended up enduring that dreadful night of separation from my mother all over again? I would not wish that upon my worst enemy, if I truly had one.
+
+Such thoughts spiraled in my mind, and I barely slept that night.</p>
+
+<h1 style="background-color:#6A2F1D; color:#D2B69A;">Chapter 7</h1>
+
+<p style="color: white; font-size: 23px;"><b><i>Finding Courage</i></b></p>
+
+<p style="color: white">I woke up the next morning to Godwin’s voice. He seemed concerned. “Why didn’t you eat, fella? Is something wrong?” I lay there miserably and said nothing. “If you don’t eat something today,” he continued, “I might as well get you checked out by the vet.” I wanted to react to this unknown word—*vet*—but the sleepless night had taken all my courage, and he walked away with my barn mash.
+
+“Are you homesick, my friend?” asked Reky. “I don’t know anymore,” I said. “I’m lost in my own misery.” “What is a vet anyway?” I added weakly. “Oh, it’s a person who checks you with special tools,” he replied. “Feels uncomfortable, but you’ll be fine. You can’t keep this up, you know. You have to eat just a little.” But I could not be bothered.
+
+Godwin came back with my reheated barn mash, a little more watered down than usual. “Still sleepy, are we?” he said, trying to cheer me up. “Come on, Beauty, it’s time to get up. There’s a beautiful day ahead of us.” I forced myself to eat, though I was hungry I had no appetite, and I could only manage less than a quarter. All that day I stayed in my stable while Reky tried to encourage me to come outside a few times, but I could not be bothered.
+
+It grew dark, and Godwin came again. “You still haven’t eaten, have you, Penny? Tomorrow at about eight, the vet is coming to visit. She’ll check you out and make sure you’re alright.” He came closer, worry in his eyes. “Listen, Penny… I’ve been worried sick about you. If only you could tell me what’s wrong.” And I wish I could tell you, I thought, but I am only of horse kind and do not have a mouth suited to speak the words of yours.
+
+It was, I believe, Saturday morning when I was woken by a
+
+woman I did not know. She wore a white gown with a red cross and her blond hair was tied back in a ponytail with a blue ribbon. “Hello there, Penny,” she said. “I’m Doctor Harriet. I’m here to check on you today.” She placed her hand gently on my tongue and examined the inside of my mouth. “She looks fine,” she said, “just a little dry, probably hasn’t been drinking much.” Then she placed a glass thermometer near my hind end. I felt like kicking, but I was too weak. “The temperature seems good—37.8.” Lastly, she used a glowing stick she called a flashlight to look into my eyes and gently rubbed my ears. “She seems healthy, just a little dehydrated and weak, but otherwise fine. She’s about three and a half years old. If she’s not eating, she’s most likely feeling down.”
+
+She turned to Godwin. “Tell me, sir, do you know her backstory? Was she wild?” “Yes, miss,” he replied. “She was taken from the forest,” Godwin said. “Probably logging,” the vet replied. “She was happy when she first arrived.”
+
+“I know,” Harriet said softly, “but sometimes horses see things that remind them of home, and they long for family. The best decision might be to set her free.”
+
+Everything went silent.
+
+I felt hope.
+
+At last, someone understood me, I thought.
+
+“If that is so,” Godwin replied after a long pause, “then that is what I will give her. But what if she gets captured by some wicked man?”
+
+“I understand this is a hard decision,” the vet replied gently, “but she is wild after all. She knows how to survive out there. She is older now.”
+
+“I guess,” Godwin said, troubled. The vet left on a white horse with a cart behind it, marked with the same red cross as her coat.
+
+I stood with all the strength I had and ate. My appetite returned suddenly, and I felt hunger again. I did not care that the mash was cold and ate the full bucket within five minutes before lying back down to rest. Later, when I woke, it was about ten and I had been asleep for an hour and a half. Reky was outside my stable. “Well, I guess you’re getting what you longed for,” he said. “I’m happy for you, fella. I was worried, but now that I know you feel relief, it does my heart good. Just be careful out there, alright? Promise me.” Godwin came by while I was sleeping too and said, “You know, Reky… now that she knows, maybe she does want this. It will be hard letting her go, but it would be cruel to keep her like a bird in a cage. I hope she’ll be safe… but it will do everyone good. And maybe she’ll come and visit.” “Tomorrow is your day,” Reky whispered. I got so excited I jumped up and began running around the field. Tomorrow, I was free…</p>
+
+<h1 style="background-color:#64291B;color:#D2B69A">Chapter 8</h1>
+
+<h1 style="background-color:#D2B69A; color:#1B100C">COMING SOON!!!</h1>
+
+
+
+</div></body></html>
